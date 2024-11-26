@@ -1,6 +1,6 @@
 # poissonmf_cs
 Poisson Factorization with joint content and social trust factors (paper under review)
-Eliezer de Souza da Silva
+
 
 This code is provided as it is.
 
